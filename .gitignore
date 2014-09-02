@@ -1,0 +1,12 @@
+Archive/**
+Bill_Simmons_Tools/**
+Trending_Audit/**
+WSDtools/**
+*.pyc
+*.png
+*.jpg
+*.dat
+*.mat
+*.html
+*.fig
+scrap*.m
